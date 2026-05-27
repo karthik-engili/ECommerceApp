@@ -95,6 +95,6 @@ This project requires environment variables to run. See the `.env.example` files
 
 ## Deployment
 
-- Frontend is deployed on Vercel
-- Backend is deployed on Render
+- Frontend is deployed on Vercel: https://e-commerce-app-seven-mocha-89.vercel.app
+- Backend is deployed on Render: https://ecommerce-backend-iicb.onrender.com
 - Database is hosted on MongoDB Atlas
